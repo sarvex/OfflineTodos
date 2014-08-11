@@ -1,6 +1,6 @@
 # OfflineTodos app #
 
-This project show you how to upload images to Parse from an Android app, and retrieve and display them later.
+This project show you how to use the local datastore, through a Todos application.
 
 ## Android Quick Setup ##
 
