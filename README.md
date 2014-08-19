@@ -1,6 +1,6 @@
 # OfflineTodos app #
 
-This project show you how to use the local datastore, through a Todos application.
+This project shows you how to use the local datastore, through a Todos application.
 
 ## Android Quick Setup ##
 
