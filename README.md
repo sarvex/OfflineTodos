@@ -1,4 +1,6 @@
-# OfflineTodos app #
+# [Archived] OfflineTodos app #
+
+**Note:** *This repository is not under active development.*
 
 This project shows you how to use the local datastore, through a Todos application.
 
